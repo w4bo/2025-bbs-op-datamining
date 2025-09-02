@@ -29,7 +29,7 @@ DATA & AI LABORATORY
 
 | Lecture               | When                                | What                                                                                        | Who             |
 | -                     | -                                   |  -                                                                                          | -               |
-| AI FOR DATA ANALYSIS  | Day 1 (Sep 19, 2025; 14.00 - 18.00) | Introduction to Data Mining, Case Studies: Cimice.Net, Watering                             | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 1 (Sep 19, 2025; 14.00 - 18.00) | Introduction to Data Mining and AI, Case Studies: Cimice.Net, Watering                      | Matteo Francia  |
 | AI FOR DATA ANALYSIS  | Day 2 (Sep 20, 2025;  9.00 - 13.00) | Data pre-processing, Case Studies: Assortment, Gym                                          | Matteo Francia  |
 | AI FOR DATA ANALYSIS  | Day 3 (Sep 26, 2025; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka                    | Matteo Francia  |
 | AI FOR DATA ANALYSIS  | Day 4 (Sep 27, 2025;  9.00 - 13.00) | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering | Matteo Francia  |
