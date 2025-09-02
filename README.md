@@ -1,5 +1,7 @@
 # ARTIFICIAL INTELLIGENCE FOR DATA ANALYSIS + DATA & AI LABORATORY
 
+[![build](https://github.com/w4bo/2025-bbs-op-datamining/actions/workflows/build.yml/badge.svg)](https://github.com/w4bo/2025-bbs-op-datamining/actions/workflows/build.yml)
+
 (Big) Data and Artificial Intelligence X Ed.
 
 - Tutto il materiale è accessibile a questo link: https://github.com/w4bo/2025-bbs-op-datamining
