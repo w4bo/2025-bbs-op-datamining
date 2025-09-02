@@ -57,11 +57,11 @@ Riferimento ai casi di studio esterni:
 
 Link interessanti:
 
-- News
+- Articles
   - [The Tropical Island With the Hot Domain Name](https://www.bloomberg.com/news/articles/2023-08-31/ai-startups-create-digital-demand-for-anguilla-s-website-domain-name)
   - [L'Inps di Meloni fa sparire il lavoro povero](https://www.ilfattoquotidiano.it/in-edicola/articoli/2023/09/14/linps-di-meloni-fa-sp-arire-il-lavoro-povero/7291305/)
   - [These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)
   - [Amazon Mechanical Turk](https://www.mturk.com/)
-- ANN
+- Demos on artificial neural networks
   - [Tensorflow](https://playground.tensorflow.org)
   - [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
