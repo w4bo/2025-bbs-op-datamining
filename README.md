@@ -62,6 +62,7 @@ Link interessanti:
   - [L'Inps di Meloni fa sparire il lavoro povero](https://www.ilfattoquotidiano.it/in-edicola/articoli/2023/09/14/linps-di-meloni-fa-sp-arire-il-lavoro-povero/7291305/)
   - [These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)
   - [Amazon Mechanical Turk](https://www.mturk.com/)
+  - [IA e Lavoro Gen-Z](https://www.ilsole24ore.com/art/l-intelligenza-artificiale-gia-ruba-lavoro-giovani-gen-z-AHgfnmz)
 - Demos on artificial neural networks
   - [Tensorflow](https://playground.tensorflow.org)
   - [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
