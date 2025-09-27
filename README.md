@@ -29,10 +29,10 @@ DATA & AI LABORATORY
 
 | Lecture               | When                                | What                                                                                        | Who             |
 | -                     | -                                   |  -                                                                                          | -               |
-| AI FOR DATA ANALYSIS  | Day 1 (Sep 19, 2025; 14.00 - 18.00) | Introduction to Data Mining and AI, Case Studies: Cimice.Net, Watering                      | Matteo Francia  |
-| AI FOR DATA ANALYSIS  | Day 2 (Sep 20, 2025;  9.00 - 13.00) | Data pre-processing, Case Studies: Assortment, Gym                                          | Matteo Francia  |
-| AI FOR DATA ANALYSIS  | Day 3 (Sep 26, 2025; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka                    | Matteo Francia  |
-| AI FOR DATA ANALYSIS  | Day 4 (Sep 27, 2025;  9.00 - 13.00) | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 1 (Sep 19, 2025; 14.00 - 18.00) | Introduction to Data Mining and AI, LLMs and automation Case Studies: Watering              | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 2 (Sep 20, 2025;  9.00 - 13.00) | Data pre-processing                                                                         | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 3 (Sep 26, 2025; 14.00 - 18.00) | Business Understanding, Classification, Case Study: Gym (1st part)                          | Matteo Francia  |
+| AI FOR DATA ANALYSIS  | Day 4 (Sep 27, 2025;  9.00 - 13.00) | Classification, ANN, Fairness, Case studies: Gym (2nd part)                                 | Matteo Francia  |
 | -                     | -                                   |  -                                                                                          | -               |
 | DATA & AI LABORATORY  | Day 5 (Oct 17, 2025; 14.00 - 18.00) | Integrated analytics (guided) lab                                                           | Matteo Francia  |
 | DATA & AI LABORATORY  | Day 6 (Oct 18, 2025;  9.00 - 13.00) | Integrated analytics (guided) lab                                                           | Enrico Gallinucci |
