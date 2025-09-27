@@ -67,6 +67,6 @@ Link interessanti:
   - [Tensorflow](https://playground.tensorflow.org)
   - [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
   - Transformer
-      - [Transformer Explainer] https://poloclub.github.io/transformer-explainer/
+      - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
       - [LLM Visualization](https://bbycroft.net/llm)
       - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
