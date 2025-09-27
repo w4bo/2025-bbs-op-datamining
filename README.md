@@ -34,8 +34,8 @@ DATA & AI LABORATORY
 | AI FOR DATA ANALYSIS  | Day 3 (Sep 26, 2025; 14.00 - 18.00) | Classification, Case Study: Gym, Weka, Hands on Classification with Weka                    | Matteo Francia  |
 | AI FOR DATA ANALYSIS  | Day 4 (Sep 27, 2025;  9.00 - 13.00) | Hands on Classification with Weka (guided), ANN, Case studies: Smart Irrigation, Clustering | Matteo Francia  |
 | -                     | -                                   |  -                                                                                          | -               |
-| DATA & AI LABORATORY  | Day 5 (Oct 10, 2025; 14.00 - 18.00) | Integrated analytics (guided) lab                                                           | Matteo Francia  |
-| DATA & AI LABORATORY  | Day 6 (Oct 11, 2025;  9.00 - 13.00) | Integrated analytics (guided) lab                                                           | Enrico Gallinucci |
+| DATA & AI LABORATORY  | Day 5 (Oct 17, 2025; 14.00 - 18.00) | Integrated analytics (guided) lab                                                           | Matteo Francia  |
+| DATA & AI LABORATORY  | Day 6 (Oct 18, 2025;  9.00 - 13.00) | Integrated analytics (guided) lab                                                           | Enrico Gallinucci |
 
 Install Weka:
 
@@ -63,6 +63,9 @@ Link interessanti:
   - [These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)
   - [Amazon Mechanical Turk](https://www.mturk.com/)
   - [IA e Lavoro Gen-Z](https://www.ilsole24ore.com/art/l-intelligenza-artificiale-gia-ruba-lavoro-giovani-gen-z-AHgfnmz)
+  - [Google turns to nuclear to power AI data centres](https://www.bbc.com/news/articles/c748gn94k95o)
+  - [‘We definitely messed up’: why did Google AI tool make offensive historical images?](https://www.theguardian.com/technology/2024/mar/08/we-definitely-messed-up-why-did-google-ai-tool-make-offensive-historical-images)
+  - [Why Google's 'woke' AI problem won't be an easy fix](https://www.bbc.com/news/technology-68412620)
 - Demos on artificial neural networks
   - [Tensorflow](https://playground.tensorflow.org)
   - [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
@@ -70,3 +73,4 @@ Link interessanti:
       - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
       - [LLM Visualization](https://bbycroft.net/llm)
       - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+      - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
