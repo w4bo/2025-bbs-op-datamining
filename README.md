@@ -69,8 +69,10 @@ Link interessanti:
 - Demos on artificial neural networks
   - [Tensorflow](https://playground.tensorflow.org)
   - [ConvnetJS](https://cs.stanford.edu/people/karpathy/convnetjs/)
-  - Transformer
-      - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-      - [LLM Visualization](https://bbycroft.net/llm)
-      - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
-      - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Transformer
+    - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+    - [LLM Visualization](https://bbycroft.net/llm)
+    - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)
+    - [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+    - [Prompting](https://www.promptingguide.ai/it)
+  
