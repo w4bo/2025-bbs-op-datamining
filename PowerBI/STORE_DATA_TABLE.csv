@@ -1,0 +1,25 @@
+"STORE_ID";"STORE_TYPE";"STORE_NAME";"STORE_CITY";"STORE_STATE";"STORE_COUNTRY";"COFFEE_BAR";"VIDEO_STORE";"SALAD_BAR";"FLORIST"
+1;"Supermarket";"Store 1";"Acapulco";"Guerrero";"Mexico";0;0;0;0
+2;"Small Grocery";"Store 2";"Bellingham";"WA";"USA";1;0;0;0
+3;"Supermarket";"Store 3";"Bremerton";"WA";"USA";0;0;1;0
+4;"Gourmet Supermarket";"Store 4";"Camacho";"Zacatecas";"Mexico";1;0;1;1
+5;"Small Grocery";"Store 5";"Guadalajara";"Jalisco";"Mexico";1;0;0;0
+6;"Gourmet Supermarket";"Store 6";"Beverly Hills";"CA";"USA";1;1;1;1
+7;"Supermarket";"Store 7";"Los Angeles";"CA";"USA";0;0;0;1
+8;"Deluxe Supermarket";"Store 8";"Merida";"Yucatan";"Mexico";1;1;1;1
+9;"Mid-Size Grocery";"Store 9";"Mexico City";"DF";"Mexico";0;0;0;0
+10;"Supermarket";"Store 10";"Orizaba";"Veracruz";"Mexico";0;0;1;0
+11;"Supermarket";"Store 11";"Portland";"OR";"USA";0;0;0;0
+12;"Deluxe Supermarket";"Store 12";"Hidalgo";"Zacatecas";"Mexico";1;1;1;1
+13;"Deluxe Supermarket";"Store 13";"Salem";"OR";"USA";1;1;1;1
+14;"Small Grocery";"Store 14";"San Francisco";"CA";"USA";1;0;0;0
+15;"Supermarket";"Store 15";"Seattle";"WA";"USA";1;0;0;0
+16;"Supermarket";"Store 16";"Spokane";"WA";"USA";0;0;0;0
+17;"Deluxe Supermarket";"Store 17";"Tacoma";"WA";"USA";1;0;1;1
+18;"Mid-Size Grocery";"Store 18";"Hidalgo";"Zacatecas";"Mexico";0;0;0;0
+19;"Deluxe Supermarket";"Store 19";"Vancouver";"BC";"Canada";1;1;1;1
+20;"Mid-Size Grocery";"Store 20";"Victoria";"BC";"Canada";1;0;0;1
+21;"Deluxe Supermarket";"Store 21";"San Andres";"DF";"Mexico";1;0;1;1
+22;"Small Grocery";"Store 22";"Walla Walla";"WA";"USA";0;0;0;0
+23;"Mid-Size Grocery";"Store 23";"Yakima";"WA";"USA";0;0;0;0
+24;"Supermarket";"Store 24";"San Diego";"CA";"USA";1;0;1;1
